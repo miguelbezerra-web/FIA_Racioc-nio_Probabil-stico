@@ -16,5 +16,5 @@ Instituição: **Universidade Federal do Amazonas**
 --> **d) Prova de Independência Condicional entre Str e Li:** Demonstração algébrica formal de que P(Li | V, B, K, Str) = P(Li | V, B, K), justificando a ausência de aresta direta entre a condição da rua (Str) e a luz (Li).
 ---
 --> **e) Cálculo da Voltagem na Neve:** Aplicação da regra da probabilidade total para determinar P(V = t | Str = snow\_covered), resultando em 50,48% ou 0,5048.
-
+---
 ------
